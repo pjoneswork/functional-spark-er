@@ -12,7 +12,7 @@ object Recap {
   // Either: Can handle arbitrary failures
   //
   // The way to combine these values is with a operation called `flatMap`.
-  // Scala makes it easy to use this structures with for comprehensions.
+  // Scala makes it easy to use these structures with for comprehensions.
 }
 
 object valuesVsStatements {
